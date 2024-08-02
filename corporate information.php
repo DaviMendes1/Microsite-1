@@ -17,6 +17,9 @@
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
+<?php
+	
+?>
     </header>
     <!-- Page main content -->
      <!-- first content -->
